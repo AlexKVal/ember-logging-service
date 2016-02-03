@@ -1,6 +1,7 @@
 import Ember from 'ember';
 import Resolver from './resolver';
 import loadInitializers from 'ember/load-initializers';
+import './utils/route';
 import config from './config/environment';
 
 let App;
